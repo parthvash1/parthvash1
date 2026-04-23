@@ -1,20 +1,16 @@
 <!--
   GitHub Profile README for @parthvash1
-  Place this file at: https://github.com/parthvash1/parthvash1 (repo name must match username)
+  Repo: github.com/parthvash1/parthvash1
 -->
 
 <!-- Wave banner -->
 <p align="center">
-  <a href="https://github.com/parthvash1">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Parth%20Vashista&fontSize=70&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=full%20stack%20engineer%20%C2%B7%20ai%20tinkerer%20%C2%B7%20occasional%20overthinker&descSize=18&descAlignY=60" alt="header"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Parth%20Vashista&fontSize=68&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Engineer%20%C2%B7%20Applied%20AI%20%C2%B7%20Systems%20that%20ship&descSize=18&descAlignY=60" alt="banner"/>
 </p>
 
 <!-- Typing intro -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=700&color=7C3AED&center=true&vCenter=true&width=620&lines=hi%2C+i'm+parth+%F0%9F%91%8B;i+build+things+with+react%2C+next.js+%26+python;i+glue+LLMs+to+real+products;still+learning%2C+always+shipping" alt="typing"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=640&lines=Full-stack+engineer+based+in+Delhi;I+build+products+with+React%2C+Next.js+%26+Python;I+work+at+the+seam+of+web+apps+and+LLMs;Thoughtful+code+%E2%80%A2+measured+abstractions" alt="typing"/>
 </p>
 
 <p align="center">
@@ -26,19 +22,20 @@
 
 ---
 
-### about me, candidly
+### About
 
-- i'm a full stack engineer sitting in delhi, india 🌏
-- i like clean ui, messy whiteboards, and code that actually ships
-- spent a lot of time teaching myself the parts of the stack nobody wanted to own
-- currently deep in the rabbit hole of **RAG pipelines**, **multimodal models**, and **agentic workflows**
-- back in college i ran a coding society called **CODEX** — the peer-mentorship program is somehow still alive, which makes me weirdly proud
-- outside the terminal: state-level swimming, football on weekends, and arguing about things i shouldn't (debate society leftovers)
-- favourite kind of problem: the one where "it should be simple" turns out to not be simple at all
+Full-stack engineer focused on building clean, reliable products — from the API layer up to the interface a user actually touches. Most of my work sits at the intersection of **web platforms** and **applied AI**: retrieval-augmented systems, multimodal pipelines, and practical LLM integrations that do real work behind real UIs.
+
+I care about code that is easy to read six months from now, systems that fail gracefully, and abstractions that earn their keep. When I'm not shipping, I'm reading papers, sketching architecture, or losing to chess engines I respect.
+
+- Based in India
+- Comfortable from Postgres to production, Tailwind to type systems
+- Currently exploring agentic workflows, RAG at scale, and on-device inference
+- B.Tech in Computer Science — founded and led **CODEX**, a peer-mentored coding society that's still running
 
 ---
 
-### the stack i actually use
+### Tech I reach for
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css&theme=dark" alt="frontend"/><br/>
@@ -54,12 +51,11 @@
   <img src="https://img.shields.io/badge/Multimodal-FF6B6B?style=flat-square"/>
   <img src="https://img.shields.io/badge/NLP-22C55E?style=flat-square"/>
   <img src="https://img.shields.io/badge/Computer%20Vision-F59E0B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Rasa-5A17EE?style=flat-square&logo=rasa&logoColor=white"/>
 </p>
 
 ---
 
-### the github stats, for the curious
+### GitHub in numbers
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=parthvash1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&icon_color=7C3AED&title_color=7C3AED"/>
@@ -67,12 +63,14 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthvash1&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&title_color=7C3AED"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parthvash1&theme=tokyonight&utcOffset=5.5"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthvash1&theme=tokyonight"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parthvash1&theme=tokyonight"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parthvash1&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parthvash1&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7" alt="trophies"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parthvash1&theme=tokyonight"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parthvash1&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
 <p align="center">
@@ -81,9 +79,8 @@
 
 ---
 
-### the obligatory snake 🐍
+### Contribution snake
 
-<!-- set up the workflow at .github/workflows/snake.yml — see notes below -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parthvash1/parthvash1/output/github-contribution-grid-snake-dark.svg"/>
@@ -94,18 +91,17 @@
 
 ---
 
-### where to find me
+### Reach me
 
 <p align="center">
   <a href="https://github.com/parthvash1"><img src="https://img.shields.io/badge/github-parthvash1-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/parth-vashista"><img src="https://img.shields.io/badge/linkedin-parth--vashista-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://parthvash1.github.io/Portfolio-/"><img src="https://img.shields.io/badge/portfolio-parthvash1-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:vashista42@gmail.com"><img src="https://img.shields.io/badge/email-say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:vashista42@gmail.com"><img src="https://img.shields.io/badge/email-say%20hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<!-- Footer wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling"/>
 </p>
 
-<p align="center"><i>"still learning, always shipping."</i></p>
+<p align="center"><sub>Build thoughtfully. Ship often.</sub></p>
