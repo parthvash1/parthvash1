@@ -10,7 +10,7 @@
 
 <!-- Typing intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=640&lines=Full-stack+engineer+based+in+Delhi;I+build+products+with+React%2C+Next.js+%26+Python;I+work+at+the+seam+of+web+apps+and+LLMs;Thoughtful+code+%E2%80%A2+measured+abstractions" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=FDFDFD&center=true&vCenter=true&width=640&lines=Full-stack+engineer+based+in+Delhi;I+build+products+with+React%2C+Next.js+%26+Python;I+work+at+the+seam+of+web+apps+and+LLMs;Thoughtful+code+%E2%80%A2+measured+abstractions" alt="typing"/>
 </p>
 
 <p align="center">
@@ -56,23 +56,6 @@ I care about code that is easy to read six months from now, systems that fail gr
 ---
 
 ### GitHub in numbers
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=parthvash1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&icon_color=7C3AED&title_color=7C3AED"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=parthvash1&theme=tokyonight&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED"/>
-</p>
-
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthvash1&theme=tokyonight"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parthvash1&theme=tokyonight"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parthvash1&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parthvash1&theme=tokyonight"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parthvash1&theme=tokyonight&utcOffset=5.5"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthvash1&bg_color=1a1b27&color=a9b1d6&line=7C3AED&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
 </p>
